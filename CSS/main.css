@@ -1,0 +1,49 @@
+body{
+	margin:0 auto;
+}
+ul{
+	padding:0;
+}
+h1{
+	font-size:2em;
+}
+nav.navigation{
+	background-color: #69d0ff;
+	margin: 5px;
+	padding: 2px;
+	text-align: center; 
+}
+li{
+	background-color: #ffdc72;
+	display: inline-table;
+	margin: 0 auto;
+	padding: 10px;
+}
+a{
+	color:gray;
+	text-decoration:none;
+}
+section{
+	background-color:#eee2ba;
+	text-align: left;
+	/*display: table;*/
+}
+h1{
+	position: relative;
+	text-align: center;
+	top: 5px;
+	left: 10px;
+	right: 10px;
+	bottom: 70px;
+}
+.box{
+	float:;
+	width: 33.33%;
+	margin: 0 auto;
+}
+.box img{
+	height: 200px;
+	width: 90%;
+	object-fit: cover;
+	margin: 0 auto;
+}
